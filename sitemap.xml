@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xluckly.github.io/about/index.html</loc>
+    
+    <lastmod>2020-07-01T11:10:53.840Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://xluckly.github.io/friends/index.html</loc>
     
-    <lastmod>2020-07-01T08:01:46.747Z</lastmod>
+    <lastmod>2020-07-01T10:16:46.565Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xluckly.github.io/contact/index.html</loc>
+    
+    <lastmod>2020-07-01T10:16:14.622Z</lastmod>
     
   </url>
   
@@ -16,23 +30,9 @@
   </url>
   
   <url>
-    <loc>https://xluckly.github.io/contact/index.html</loc>
-    
-    <lastmod>2020-07-01T08:01:46.746Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://xluckly.github.io/categories/index.html</loc>
     
     <lastmod>2020-07-01T08:01:46.746Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://xluckly.github.io/about/index.html</loc>
-    
-    <lastmod>2020-07-01T08:01:46.745Z</lastmod>
     
   </url>
   
