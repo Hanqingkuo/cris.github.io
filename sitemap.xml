@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://godweiyang.com/friends/index.html</loc>
+    <loc>https://godweiyang.com/tags/index.html</loc>
     
     <lastmod>2020-07-01T08:01:46.747Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://godweiyang.com/tags/index.html</loc>
+    <loc>https://godweiyang.com/friends/index.html</loc>
     
     <lastmod>2020-07-01T08:01:46.747Z</lastmod>
     
@@ -30,14 +30,14 @@
   </url>
   
   <url>
-    <loc>https://godweiyang.com/about/index.html</loc>
+    <loc>https://godweiyang.com/archives/index.html</loc>
     
     <lastmod>2020-07-01T08:01:46.745Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://godweiyang.com/archives/index.html</loc>
+    <loc>https://godweiyang.com/about/index.html</loc>
     
     <lastmod>2020-07-01T08:01:46.745Z</lastmod>
     
